@@ -23,18 +23,22 @@
 	border-radius:3px;
 }
 #tagscloud a.tagc1{
-	background:#666;
+	background:#db913a;
+	/* background:#666; */
 	color:#fff;
 }
 #tagscloud a.tagc2{
-	background:#F16E50;
+	background:#0286FD;
+	/* background:#F16E50; */
 	color:#fff;
 }
 #tagscloud a.tagc3{
-	background:#006633;
+	background:#0882b3;
+	/* background:#006633; */
 	color:#fff;
 }
 #tagscloud a:hover{
 	color:#fff;
-	background:#0099ff;
+	background:#001b22;
+	/* background:#0099ff; */
 }
